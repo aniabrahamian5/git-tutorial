@@ -9,6 +9,9 @@
     <?php 
       echo "Hello World!";
       echo "This is my first pull request!";
+      echo "Line 1 - for squash demo";
+      echo "Line 2 - for squash demo";
+      echo "Line 3 - for squash demo";
     ?>
 </body>
 </html>

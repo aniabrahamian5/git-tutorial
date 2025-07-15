@@ -6,11 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-      echo "Hello World!";
-      echo "This is my first pull request!";
-      echo "Text1";
-      echo "Text2";
+    <?php
+        echo "About page";
     ?>
 </body>
 </html>
